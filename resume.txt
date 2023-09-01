@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <title>Resume</title>
+        <style>
+            table,th,tr,td{
+                border: 2px solid black;
+                border-collapse: collapse;
+            }
+        </style>
+    </head>
+    <body>
+        <h1><center>RESUME</center></h1>
+        <h3>Govuru Shashi Kumar</h3>
+       <img src="./images/shashi.jpg" width="70" align="right">
+      yshashi661@gmail.com<br>
+        9177958216,<br>
+        Dilshuknagar,<br>
+        Hyderabad.<br>
+        500060
+        <hr>
+        <h3><u>CARRRER OBJECTIVE:</u></h3>
+         <p>I am willing to be associated  with an organisation where I could put up the best of my skills <br>
+            and improve my knowledge with the latest trends. I wish to be a part of the dynamic work <br>
+            team working towards the growth of the organisation</p>
+            <hr>
+            <h3>EDUCATIONAL QUALIFICATIONS:</h3>
+            <table>
+                <tr>
+                    <th>Course</th>
+                    <th>Institute</th>
+                    <th>Year of Passing</th>
+                    <th>Percentage</th>
+                </tr>
+                <tr><td>SSC</td>
+                <td>Wisdom High School<br>
+                      &nbsp&nbsp &nbsp &nbsp  Nizamabad
+                    
+                </td>
+            <td>&nbsp &nbsp &nbsp &nbsp 2018</td>
+        <td>&nbsp &nbsp &nbsp 95</td></tr>
+        
+        <tr><td>Intermediate</td>
+        <td>&nbsp SR Junior College<br>
+            &nbsp &nbsp&nbsp &nbsp Nizamabad
+            
+        </td>
+    <td>&nbsp &nbsp &nbsp &nbsp 2020</td>
+<td>&nbsp &nbsp &nbsp 97</td></tr>
+
+<tr><td>Degree</td>
+        <td>&nbsp Government City College<br>
+            &nbsp &nbsp&nbsp &nbsp Nayapul
+            
+        </td>
+    <td>&nbsp &nbsp &nbsp &nbsp 2023</td>
+<td>&nbsp &nbsp &nbsp 83</td></tr>
+
+            </table>
+            <hr>
+            <h3>HOBBIES:</h3>
+            <ul><li>Listening Music</li>
+            <li>Playing Games</li></ul> 
+            <hr><h3>STRENGHTS:</h3>
+            <ul><li>Positivie thinking</li>
+            <li>Good learner</li></ul>
+            <hr>
+            <h3>TECHNICAL QUALIFICATIONS:</h3>
+       <ul><li>HTML</li>
+    <li>CSS</li>
+<li>JS</li>
+<li>NODE JS</li>
+<li>PHYTHON</li></ul>
+<hr>
+<h3>DECLARATION:</h3>
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hereby declare that the information given above is true to the best of my<br>
+ knowledge and belief.<br><br><br>
+ <b>Place:</b>Hyderabad.<br>
+ <img src="./images/signature.jpg" width="200" height="50" align="right"><br>
+ <p style="text-align:right"><b>Signature:</b></p>
+
+        </body>
+    </html>
